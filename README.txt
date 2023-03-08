@@ -18,6 +18,14 @@ serve as a supporting tool to social sciences for knowledge extraction and quant
 
 
 ---FOLDER STRUCTURE---
-Original Images: Contains flags images in various scales (195 unique flags).
-Annotations: Contains flags images bounding boxes along with class (class, x, y, width, height). 
-Index_Class.txt: Contatins number to flags names.
+├── Dataset
+    ├── Original Images_1
+         000_g0_320.jpg
+         000_g0_352.jpg
+         000_g0_384.jpg
+         ...
+    ├── Annotations_1
+         000_g0_320.txt
+         000_g0_352.txt
+         000_g0_384.txt
+         ...
