@@ -3,21 +3,26 @@ National flags are the most recognizable symbols of the identity of a country. S
 
 
 # FOLDER STRUCTURE
+```
 ├── Dataset
+
     ├── Original Images_1
          000_g0_320.jpg
          000_g0_352.jpg
          000_g0_384.jpg
          ...
+         
     ├── Annotations_1
          000_g0_320.txt
          000_g0_352.txt
          000_g0_384.txt
          ...
+```
 
 # Citation
 If you use our dataset in a scientific publication, please use the following bibtex citation:
 ```
-Kalampokas, T., Mentizis, D., Vrochidou, E. et al. Connecting national flags – a deep learning approach. Multimed Tools Appl (2023). https://doi.org/10.1007/s11042-023-15056-y
+Kalampokas, T., Mentizis, D., Vrochidou, E. et al. Connecting national flags – a deep learning approach. Multimed Tools Appl (2023).
+https://doi.org/10.1007/s11042-023-15056-y
 ```
 
